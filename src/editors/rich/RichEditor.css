@@ -1,0 +1,14 @@
+.DraftEditor-root {
+  height: 100%;
+  width: 100%;
+  text-align: left;
+}
+
+.DraftEditor-editorContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.DraftEditor-editorContainer > div {
+  height: 100%;
+}
